@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/marketsq.io/static/css/main.77f63ec1.css",
+    "main.js": "/marketsq.io/static/js/main.ea2b8d70.js",
+    "index.html": "/marketsq.io/index.html",
+    "main.77f63ec1.css.map": "/marketsq.io/static/css/main.77f63ec1.css.map",
+    "main.ea2b8d70.js.map": "/marketsq.io/static/js/main.ea2b8d70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77f63ec1.css",
+    "static/js/main.ea2b8d70.js"
+  ]
+}
